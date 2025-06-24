@@ -65,7 +65,7 @@ REACT_APP_OPENAI_API_KEY=your_openai_key_here
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 .
@@ -80,13 +80,13 @@ REACT_APP_OPENAI_API_KEY=your_openai_key_here
 
 ---
 
-## 📄 License
+## License
 
 MIT License
 
 ---
 
-## 🙌 Acknowledgments
+## Acknowledgments
 
 * [OpenAI API](https://platform.openai.com/)
 * React & Node.js community
